@@ -1,0 +1,5 @@
+Need To Change The DB Location In " DBAccess Class "
+
+Need To Change The RDLC files Location In "Show_Report.cs" and In " Doctor_See_Appointment.cs "
+
+Need To Change The " Terms-Condition.pdf " files Location in " Registration.cs " and In " Update_User_Info.cs "
